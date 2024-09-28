@@ -63,7 +63,8 @@ cd Stock-Price-Prediction-Web-App-using-streamlit
 
 Create a virtual environment (optional but recommended) and install the necessary Python packages using pip:
 
-```bash pip install streamlit pandas numpy keras matplotlib scikit-learn
+```bash 
+pip install streamlit pandas numpy keras matplotlib scikit-learn
 ```
 
 Usage
